@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083858378104",
+    "project_id": "targilthree",
+    "storage_bucket": "targilthree.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083858378104:android:f51acd87ce6c09d7107c8d",
+        "android_client_info": {
+          "package_name": "com.example.targil_three"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjoRGxTcbwofpkDhYzlCnwgkzZJcVxU-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
